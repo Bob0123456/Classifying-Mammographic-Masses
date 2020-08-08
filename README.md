@@ -1,5 +1,7 @@
 # Classifying-Mammographic-Masses
-Classification of mammographic masses into "Benign" and "Malignant" based on 6 different attributes - BI-RADS assessment, age, shape, margin, density and severity.
+AIM:
+The main aim is to predict whether a mammogram mass is benign or malignant.
+Classification based on 6 different attributes - BI-RADS assessment, age, shape, margin, density and severity.
 
 DATASET:
 From UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
