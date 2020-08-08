@@ -3,6 +3,7 @@ Classification of mammographic masses into "Benign" and "Malignant" based on 6 d
 
 DATASET:
 From UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
+
 The dataset needs to be cleaned as there are many NA values, so data preprocessing is a must.
 Also, I tried working on different kernel functions of SVM in this prject to get a deeper understanding but for that it was needed to normalize the data too. 
 Before implementing on SVM, the data was normlaized for more accurate and reliable results.
